@@ -3,7 +3,7 @@
 body { 
 margin: 0;
 font-family: 'Courier New', Courier, monospace;
-background-color: gold;
+background-color: rgb(209, 14, 50);
 
 }
 nav {
@@ -28,7 +28,7 @@ ul {
 ul a { 
     text-decoration: none;
 
-}
+} 
 
 .foto {
     
